@@ -1,0 +1,104 @@
+
+fbgame.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bird
+  rotate: false
+  xy: 240, 242
+  size: 34, 96
+  orig: 34, 96
+  offset: 0, 0
+  index: -1
+land
+  rotate: false
+  xy: 2, 116
+  size: 336, 112
+  orig: 336, 112
+  offset: 0, 0
+  index: -1
+medal_bronze
+  rotate: false
+  xy: 276, 294
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+medal_gold
+  rotate: false
+  xy: 276, 248
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+medal_platinum
+  rotate: false
+  xy: 322, 294
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+medal_silver
+  rotate: false
+  xy: 322, 248
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: false
+  xy: 368, 202
+  size: 26, 136
+  orig: 26, 136
+  offset: 0, 0
+  index: -1
+pipe-b
+  rotate: false
+  xy: 2, 2
+  size: 52, 1
+  orig: 52, 1
+  offset: 0, 0
+  index: -1
+pipe-down
+  rotate: false
+  xy: 280, 16
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+pipe-up
+  rotate: false
+  xy: 334, 16
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+replay
+  rotate: false
+  xy: 280, 44
+  size: 115, 70
+  orig: 115, 70
+  offset: 0, 0
+  index: -1
+scoreboard
+  rotate: false
+  xy: 2, 230
+  size: 236, 280
+  orig: 236, 280
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 2, 5
+  size: 276, 109
+  orig: 276, 109
+  offset: 0, 0
+  index: -1
+splash
+  rotate: false
+  xy: 240, 340
+  size: 188, 170
+  orig: 188, 170
+  offset: 0, 0
+  index: -1

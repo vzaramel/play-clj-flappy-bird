@@ -1,0 +1,8 @@
+/desktop/target
+*.iml
+*.idea
+**/.idea
+*/**/.idea
+/android/target
+*.DS_STORE
+*.nrepl-port
