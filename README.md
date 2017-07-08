@@ -1,6 +1,6 @@
 ## Introduction
 
-A play-clj game in which ... well, that part is up to you.
+A clone of flappy bird using play-clj, a clojure game library built on top of libgdx.
 
 ## Contents
 
